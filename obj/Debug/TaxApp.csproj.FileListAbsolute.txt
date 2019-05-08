@@ -1,0 +1,10 @@
+C:\Users\goode\OneDrive\Documents\Personal Projects\TaxApp\TaxApp\obj\Debug\TaxApp.csprojAssemblyReference.cache
+C:\Users\goode\OneDrive\Documents\Personal Projects\TaxApp\TaxApp\obj\Debug\TaxApp.Form1.resources
+C:\Users\goode\OneDrive\Documents\Personal Projects\TaxApp\TaxApp\obj\Debug\TaxApp.Properties.Resources.resources
+C:\Users\goode\OneDrive\Documents\Personal Projects\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.GenerateResource.cache
+C:\Users\goode\OneDrive\Documents\Personal Projects\TaxApp\TaxApp\obj\Debug\TaxApp.csproj.CoreCompileInputs.cache
+C:\Users\goode\OneDrive\Documents\Personal Projects\TaxApp\TaxApp\bin\Debug\TaxApp.exe.config
+C:\Users\goode\OneDrive\Documents\Personal Projects\TaxApp\TaxApp\bin\Debug\TaxApp.exe
+C:\Users\goode\OneDrive\Documents\Personal Projects\TaxApp\TaxApp\bin\Debug\TaxApp.pdb
+C:\Users\goode\OneDrive\Documents\Personal Projects\TaxApp\TaxApp\obj\Debug\TaxApp.exe
+C:\Users\goode\OneDrive\Documents\Personal Projects\TaxApp\TaxApp\obj\Debug\TaxApp.pdb
